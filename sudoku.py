@@ -49,7 +49,7 @@ def generate_4x4_sudoku():
                 filled += 1
     return grid
 
-# --- Foncions ---
+# --- Fonctions ---
 
 #fonction affichage de la grille
 def afficher_grille(grille):
